@@ -9,11 +9,11 @@ Run examples:
 
 `docker run --env AWS_ACCESS_KEY_ID="L000000LN0" \
 --env AWS_SECRET_ACCESS_KEY="zzzZZZzzzZZZ+DSDWDDdd" \
-gazataeon/docker-awscli:ubuntu-18.04`
+gazataeon/awscli:ubuntu-18.04`
 
 or
 
 `docker run --env AWS_ACCESS_KEY_ID="L000000LN0" \
 --env AWS_SECRET_ACCESS_KEY="zzzZZZzzzZZZ+DSDWDDdd" \
-gazataeon/docker-awscli:alpine-3.10.2`
+gazataeon/awscli:alpine-3.10.2`
 
