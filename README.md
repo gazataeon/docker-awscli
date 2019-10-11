@@ -1,7 +1,7 @@
 # docker-awscli
-Docker Containers with AWS CLI
+Docker Images with AWS CLI
 
-Two simple containers for AWS and S3 CLI commands.
+Two simple Images for AWS and S3 CLI commands.
 
 Both should work fine, but the Ubuntu image is there for those of you who like big packages. ( ͡☉ ͜ʖ ͡☉)
 
